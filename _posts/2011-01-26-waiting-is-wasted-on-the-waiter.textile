@@ -1,0 +1,10 @@
+---
+layout: post
+title: Waiting is Wasted on the Waiter
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 January 2011 -- Charlottesville
+
+Testing
